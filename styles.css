@@ -11,24 +11,24 @@
 .row div{
 	border: 2px dotted black;
 }
-.row-1-col-1{
+.r1c1{
 	background: #088F8F;
 }
-.row-1-col-2{
+.r1c2{
 	background: #FFD1C7;
 }
 .row-2,.row-3{
 	background: brown;
 }
-.row-2-col-1{
+.r2c1{
 	background: salmon;
 }
-.row-2-col-2{
+.r2c2{
 	background: #47FFEB;
 }
-.row-3-col-1{
+.r3c1{
 	background: violet;
 }
-.row-3-col-2{
+.r3c2{
 	background: #99FF38;
 }

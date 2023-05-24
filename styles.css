@@ -1,7 +1,15 @@
 
 /* Your CSS Code here. */
+.container{
+	border: 4px solid lightgreen;
+	padding: 6px;
+}
 .row{
 	height: 200px;
+	padding: 0 6px; 
+}
+.row div{
+	border: 2px dotted black;
 }
 .row-1-col-1{
 	background: #088F8F;
